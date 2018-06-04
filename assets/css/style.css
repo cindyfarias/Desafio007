@@ -3,9 +3,13 @@ p{
 	font-size: 13px;
 }
 
+footer{
+	border-top: 1px solid #dfdfdf;
+}
+
 .infobanner {
     position: absolute;
-    top: 25%;
+    top: 20%;
     text-align: center;
     color: #fff;
 }
@@ -27,7 +31,8 @@ p{
 }
 
 .imagen{
-	border-radius: 10px 10px 0 0
+	border-radius: 10px 10px 0 0;
+	width: 100%;
 }
 
 .boton{
@@ -36,4 +41,23 @@ p{
 
 .img-logo {
     width: 24px;
+}
+
+.copy {
+    padding: 10px 0;
+    background-color: #f0f0f0;
+    border-top: 1px solid #dfdfdf;
+    height: 0;
+}
+
+.pie{
+	padding: 15px 0;
+}
+
+@media (max-width: 768px){
+
+.infobanner {
+    top: 5%;
+}
+
 }
