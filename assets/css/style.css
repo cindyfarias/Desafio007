@@ -1,6 +1,39 @@
+
+p{
+	font-size: 13px;
+}
+
 .infobanner {
     position: absolute;
     top: 25%;
     text-align: center;
     color: #fff;
+}
+
+.fotos{
+	margin-top: 3%
+}
+
+.photo{
+    display: block;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 10px solid #ddd;
+    border-radius: 20px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+.imagen{
+	border-radius: 10px 10px 0 0
+}
+
+.boton{
+	padding: 20px 0;
+}
+
+.img-logo {
+    width: 24px;
 }
