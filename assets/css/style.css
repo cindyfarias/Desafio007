@@ -61,4 +61,18 @@ footer{
     top: 20%;
 }
 
+.banner{
+    height: 400px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 1199px){
+.infobanner {
+    top: 20%;
+}
+
+.banner{
+    height: 400px;
+}
 }
