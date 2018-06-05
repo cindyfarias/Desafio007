@@ -2,4 +2,4 @@
 
 # Actividad - Álbum de Fotos
 
-Página web hecha con bootstrap: https://github.com/cindyfarias/Desafio007
+Página web en base a diseño proporcionado, hecha con bootstrap: https://github.com/cindyfarias/Desafio007
