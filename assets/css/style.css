@@ -18,6 +18,7 @@ footer{
 	margin-top: 3%
 }
 
+
 .photo{
     display: block;
     margin-bottom: 20px;
@@ -57,7 +58,7 @@ footer{
 @media (max-width: 768px){
 
 .infobanner {
-    top: 5%;
+    top: 20%;
 }
 
 }
