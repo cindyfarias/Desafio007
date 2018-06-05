@@ -67,7 +67,7 @@ footer{
 }
 
 @media (min-width: 769px) and (max-width: 1199px){
-    .infobanner {
+.infobanner {
     top: 20%;
 }
 
