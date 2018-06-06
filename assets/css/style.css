@@ -55,22 +55,11 @@ footer{
 }
 
 
-@media (max-width: 450px){
-  .infobanner {
-    top: 15%;
-}
-
-.banner{
-    height: 400px;
-}
-
-}  
-}
 
 @media (max-width: 768px){
 
 .infobanner {
-    top: 20%;
+    top: 18%;
 }
 
 .banner{
